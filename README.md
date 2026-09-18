@@ -251,7 +251,7 @@ This project is licensed under the **OxCMData Academic & Non-Commercial Research
 
 - **Academic & Research Use:** Completely **free of charge** for universities, researchers, and students, provided that appropriate citations are included in any resulting publications.
 - **Commercial & Industrial Use:** Strictly **prohibited without a separate commercial license**. If your company or engineering consultancy wishes to use, deploy, or integrate `OxCMData` for proprietary or commercial projects, please contact:
-  - **Fatih Uzun** — 📧 `fatihuzun@me.com` | `fatih.uzun@eng.ox.ac.uk`
+  - **Fatih Uzun** — 📧 `fatihuzun@me.com`
 
 ---
 
