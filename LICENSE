@@ -1,0 +1,41 @@
+OxCMData Academic and Non-Commercial Research License
+
+Copyright (c) 2024-2026 Fatih Uzun
+Department of Engineering Science, University of Oxford, Oxford, U.K.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software for NON-COMMERCIAL, ACADEMIC,
+AND EDUCATIONAL RESEARCH PURPOSES ONLY, subject to the following conditions:
+
+1. ATTRIBUTION & CITATION:
+   The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software. Any academic publication,
+   technical report, presentation, or research output that utilizes or adapts
+   this Software must cite the following publications:
+
+   - F. Uzun, "OxCMData: Automated Data Processing and Mesh Generation for 
+     Contour Method Residual Stress Evaluation", Department of Engineering Science,
+     University of Oxford.
+   - F. Uzun, A.M. Korsunsky, "The OxCM contour method solver for residual stress
+     evaluation", Engineering with Computers, 40 (2024) 3059–3072.
+     https://doi.org/10.1007/s00366-024-01959-3
+
+2. COMMERCIAL RESTRICTION:
+   The Software may NOT be used, executed, incorporated, or redistributed for any
+   commercial, industrial, or revenue-generating purposes (including consulting,
+   proprietary aerospace, nuclear, or manufacturing evaluations) without prior
+   written authorization and a separate commercial license agreement from the author.
+
+3. COMMERCIAL LICENSING INQUIRIES:
+   For industrial applications, proprietary integration, or commercial licensing
+   agreements, please contact the author directly:
+   - Fatih Uzun: fatihuzun@me.com / fatih.uzun@eng.ox.ac.uk
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
