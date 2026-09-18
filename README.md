@@ -214,7 +214,7 @@ The fidelity of this pipeline was validated using three open-access datasets:
 
 Future releases and enhancements are planned and will be pushed directly to this repository:
 - [ ] **Multi-Language Implementations:** Standalone versions in **Python** (NumPy/SciPy) and **C++** for seamless cross-platform deployment without MATLAB dependencies.
-- [ ] **FEniCSx Support:** Direct export routines to modern HDF5/XDMF formats for native parallel execution in **DOLFINx / FEniCSx**.
+- [ ] **FEniCS Support:** Direct export routines to modern HDF5/XDMF formats for native parallel execution in **DOLFIN / FEniCS**.
 - [ ] **WEDM Parameter Calibration:** Automated boundary erosion and filtering rules calibrated for different wire electrical discharge machining (WEDM) cut settings.
 - [ ] **Direct Gmsh/meshio Interoperability:** Extended export bindings to standard finite element formats (`.inp`, `.msh`, `.vtk`).
 
