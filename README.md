@@ -3,7 +3,7 @@
 [![MATLAB](https://img.shields.io/badge/Platform-MATLAB%20R2020b+-blue.svg)](https://www.mathworks.com/products/matlab.html)
 [![FEniCS](https://img.shields.io/badge/Solver-FEniCS%20%7C%20OxCM-orange.svg)](https://fenicsproject.org/)
 [![Status](https://img.shields.io/badge/Status-Active%20Development-success.svg)](#active-development--roadmap)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Academic & Non-Commercial](https://img.shields.io/badge/License-Academic%20%26%20Non--Commercial-blue.svg)](LICENSE)
 
 **OxCMData** is an open-source, automated MATLAB computational framework designed to bridge the gap between raw surface profilometry and implicit finite element solvers (such as [OxCM / FEniCS](https://doi.org/10.1007/s00366-024-01959-3)).
 
@@ -242,6 +242,16 @@ If you use **OxCMData** or find this pipeline helpful in your research, please c
   doi     = {10.1007/s00366-024-01959-3}
 }
 ```
+
+---
+
+## 📄 License & Commercial Inquiries
+
+This project is licensed under the **OxCMData Academic & Non-Commercial Research License**:
+
+- **Academic & Research Use:** Completely **free of charge** for universities, researchers, and students, provided that appropriate citations are included in any resulting publications.
+- **Commercial & Industrial Use:** Strictly **prohibited without a separate commercial license**. If your company or engineering consultancy wishes to use, deploy, or integrate `OxCMData` for proprietary or commercial projects, please contact:
+  - **Fatih Uzun** — 📧 `fatihuzun@me.com` | `fatih.uzun@eng.ox.ac.uk`
 
 ---
 
