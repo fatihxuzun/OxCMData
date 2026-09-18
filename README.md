@@ -260,5 +260,4 @@ This project is licensed under the **OxCMData Academic & Non-Commercial Research
 For bug reports, feature requests, or questions regarding contour method data processing, please open an issue on GitHub or contact:
 
 - **Fatih Uzun**  
-  Department of Engineering Science, University of Oxford, Oxford, U.K.  
   📧 `fatihuzun@me.com`
