@@ -220,6 +220,13 @@ Future releases and enhancements are planned and will be pushed directly to this
 
 ---
 
+## 👏 Acknowledgements & Third-Party Code
+
+The spatial alignment engine in `OxCM_profilometryData.m` (`hDICIcp`) adapts and parallelizes the point-to-point and point-to-plane registration routines originally authored by:
+- **Jakob Wilm & Hans Martin Kjer (2010)**, *"Iterative Closest Point"*, [MATLAB Central File Exchange #27804](https://www.mathworks.com/matlabcentral/fileexchange/27804-iterative-closest-point), under the BSD 2-Clause License.
+
+---
+
 ## 📖 Citation
 
 If you use **OxCMData** or find this pipeline helpful in your research, please cite:
