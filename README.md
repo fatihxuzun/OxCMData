@@ -228,8 +228,8 @@ If you use **OxCMData** or find this pipeline helpful in your research, please c
 @article{Uzun2024OxCMData,
   title   = {OxCMData: Automated Data Processing and Mesh Generation for Contour Method Residual Stress Evaluation},
   author  = {Uzun, Fatih},
-  journal = {Department of Engineering Science, University of Oxford},
-  year    = {2024}
+  journal = {International Journal of Pressure Vessels and Piping},
+  year    = {2026}
 }
 
 @article{Uzun2024OxCM,
@@ -251,4 +251,4 @@ For bug reports, feature requests, or questions regarding contour method data pr
 
 - **Fatih Uzun**  
   Department of Engineering Science, University of Oxford, Oxford, U.K.  
-  📧 `fatihuzun@me.com` | `fatih.uzun@eng.ox.ac.uk`
+  📧 `fatihuzun@me.com`
