@@ -236,7 +236,9 @@ If you use **OxCMData** or find this pipeline helpful in your research, please c
   title   = {OxCMData: Automated Data Processing and Mesh Generation for Contour Method Residual Stress Evaluation},
   author  = {Uzun, Fatih},
   journal = {International Journal of Pressure Vessels and Piping},
-  year    = {2026}
+  volume  = {225},
+  year    = {2026},
+  doi     = {10.1016/j.ijpvp.2026.105967}
 }
 
 @article{Uzun2024OxCM,
