@@ -246,7 +246,7 @@ If you use **OxCMData** or find this pipeline helpful in your research, please c
   author  = {Uzun, Fatih and Korsunsky, Alexander M.},
   journal = {Engineering with Computers},
   volume  = {40},
-  pages   = {3059--3072},
+  pages   = {3059-3072},
   year    = {2024},
   doi     = {10.1007/s00366-024-01959-3}
 }
